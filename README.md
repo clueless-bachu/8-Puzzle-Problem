@@ -25,9 +25,13 @@ From command prompt/anaconda prompt/terminal, navigate to the folder named ```EN
 ```python 8_puzzle.py```
 The desired input needs to be written in ```project_1/data/initNode.txt``` in a single line rowwise
 For Example, if the input is 
+
 |1  0  2|                            
+
 |3  4  5|
+
 |6  7   8|
+
 It needs to be input as ```1 0 2 3 4 5 6 7 8```
 
 ## Checking Output
@@ -37,4 +41,5 @@ then run ```python plot_path.py``` to visualize the path
 
 ## Author
 Vasista Ayyagari
-Email: vasista1997@gmail.# ENPM661_project_1
+
+Email: vasista1997@gmail.
