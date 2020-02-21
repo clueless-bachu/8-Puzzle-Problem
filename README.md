@@ -6,8 +6,11 @@ This project is used to solve the 8 Puzzle problem using Python and Breadth Firs
 **NOTE**
 
 The desired goal location mentioned in the code is as follows
+
 | 0 1 2 |
+
 | 3 4 5 |
+
 | 6 7 8 |
 ---
 ## Getting Started
@@ -17,7 +20,7 @@ Download the code into a folder
 A python environment should be ready
 
 ## Running the Program
-From command prompt/anaconda prompt/terminal, navigate to the folder named ```project_1``` and run the command
+From command prompt/anaconda prompt/terminal, navigate to the folder named ```ENPM_project_1``` and run the command
 ```python 8_puzzle.py```
 The desired input needs to be written in ```project_1/data/initNode.txt``` in a single line rowwise
 For Example, if the input is 
