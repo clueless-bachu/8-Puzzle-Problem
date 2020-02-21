@@ -12,6 +12,7 @@ The desired goal location mentioned in the code is as follows
 | 3 4 5 |
 
 | 6 7 8 |
+
 ---
 ## Getting Started
 Download the code into a folder
